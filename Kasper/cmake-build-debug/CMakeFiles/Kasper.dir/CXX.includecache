@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/olegsidorenkov/Desktop/CTypeLanguages/CPlusPlus/Kasper/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+ctime
+-
+filesystem
+-
+unistd.h
+-
+

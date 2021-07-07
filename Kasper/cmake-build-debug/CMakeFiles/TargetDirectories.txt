@@ -1,0 +1,3 @@
+/Users/olegsidorenkov/Desktop/CTypeLanguages/CPlusPlus/Kasper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/olegsidorenkov/Desktop/CTypeLanguages/CPlusPlus/Kasper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/olegsidorenkov/Desktop/CTypeLanguages/CPlusPlus/Kasper/cmake-build-debug/CMakeFiles/Kasper.dir
